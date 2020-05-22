@@ -12,7 +12,7 @@ Some of cools examples that I made in the past.
 </p></pre>
 
 <pre><p align="center">
-<img src="/Chair.png" >
+<img src="/chair.png" >
 </p></pre>
 
 <pre><p align="center">
