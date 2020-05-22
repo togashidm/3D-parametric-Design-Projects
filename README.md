@@ -16,6 +16,6 @@ Some of cools examples that I made in the past.
 </p></pre>
 
 <pre><p align="center">
-<img src="/FlowSim.png" >
+<img src="/FlowSim.png" width="400" height="520">
 </p></pre>
 
